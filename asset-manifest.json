@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/UdemyProject-RoboFriends/static/css/main.5687091a.chunk.css",
+    "main.js": "/UdemyProject-RoboFriends/static/js/main.8a4b247d.chunk.js",
+    "main.js.map": "/UdemyProject-RoboFriends/static/js/main.8a4b247d.chunk.js.map",
+    "runtime-main.js": "/UdemyProject-RoboFriends/static/js/runtime-main.8aa5905d.js",
+    "runtime-main.js.map": "/UdemyProject-RoboFriends/static/js/runtime-main.8aa5905d.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/UdemyProject-RoboFriends/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.faf57d51.chunk.js": "/UdemyProject-RoboFriends/static/js/2.faf57d51.chunk.js",
+    "static/js/2.faf57d51.chunk.js.map": "/UdemyProject-RoboFriends/static/js/2.faf57d51.chunk.js.map",
+    "index.html": "/UdemyProject-RoboFriends/index.html",
+    "precache-manifest.7a3c9bf7012be98db883db70b386f075.js": "/UdemyProject-RoboFriends/precache-manifest.7a3c9bf7012be98db883db70b386f075.js",
+    "service-worker.js": "/UdemyProject-RoboFriends/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/UdemyProject-RoboFriends/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.5687091a.chunk.css.map": "/UdemyProject-RoboFriends/static/css/main.5687091a.chunk.css.map",
+    "static/js/2.faf57d51.chunk.js.LICENSE.txt": "/UdemyProject-RoboFriends/static/js/2.faf57d51.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/UdemyProject-RoboFriends/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8aa5905d.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.faf57d51.chunk.js",
+    "static/css/main.5687091a.chunk.css",
+    "static/js/main.8a4b247d.chunk.js"
+  ]
+}
